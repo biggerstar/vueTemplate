@@ -1,6 +1,6 @@
  <template>
 		 <div>
- 					 
+ 					 我是home
 		 </div>
  </template>
  
@@ -23,7 +23,7 @@
  };
  </script>
  
- <style scoped lang="less">
+ <style scoped >
  
  </style>
  
